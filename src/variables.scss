@@ -5,4 +5,10 @@
     font-weight: normal;
 }
 
-$lightGrey : #F3F3F5
+$lightGrey : #F3F3F5;
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url(fonts/FontsFree-Net-SFProText-Semibold.ttf) format("ttf");
+    font-weight: normal;
+}

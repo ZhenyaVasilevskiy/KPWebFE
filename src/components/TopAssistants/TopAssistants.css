@@ -1,0 +1,27 @@
+.TopAssistantsWrapper{
+    background-color: #F3F3F5;
+}
+
+.TopAssistantsContent{
+    width: 93%;
+    margin: 0 auto;
+}
+
+.TopAssistantsHeadline{
+    font-family: 'Thunder';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 32px;
+text-transform: uppercase;
+padding-top: 40px;
+color: #000000;
+margin-bottom: 20px;
+}
+
+.topAssistantCard{
+    display: flex;
+    width: 82%;
+    background: #FFFFFF;
+    border-radius: 11px;
+}

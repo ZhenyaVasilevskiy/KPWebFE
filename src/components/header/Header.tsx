@@ -12,9 +12,9 @@ const Header: React.FC = () => {
             <SearchIcon data-testid="SearchIcon" className={stl.searchIcon} sx={{marginRight:"10px"}}/>
             <Button variant="contained" className="Button" sx={{borderRadius:"10px",marginRight:"10px"}}>Sign Up</Button>
             <MenuIcon className={stl.searchIcon}/>
+
         </div>
       </div>
-           
     </div>
     )
 }

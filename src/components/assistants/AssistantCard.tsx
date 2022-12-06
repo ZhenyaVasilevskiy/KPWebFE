@@ -3,7 +3,8 @@ const AssistantCard: React.FC = () => {
     return (
     <div className={stl.cardWrapper}>
     
-    </div>)
+    </div>
+    )
 }
 
 export default AssistantCard;
